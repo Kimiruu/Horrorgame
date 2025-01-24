@@ -1,5 +1,7 @@
 # Horror Game
 
+J'ai utiliser git LFS pour le projet car il est fait en megascan 
+
 ## Synopsis
 Dans ce jeu on incarne un personnage coincé dans un chantier abandonné qui a pour but de tuer le monstre qui hante ces lieux.
 
