@@ -1,0 +1,22 @@
+# Fichiers et dossiers à ignorer pour un projet Unreal Engine 5
+
+# Dossiers générés
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers de configuration spécifiques de l’utilisateur
+*.user
+*.userprefs
+
+# Fichiers de build
+*.VC.db
+*.sln
+*.suo
+*.opensdf
+*.VC.opendb
+
+# Fichiers du système
+.DS_Store
+Thumbs.db
