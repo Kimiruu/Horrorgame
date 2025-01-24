@@ -5,8 +5,11 @@ Dans ce jeu on incarne un personnage coincé dans un chantier abandonné qui a p
 
 ## Commandes 
 **wasd** pour les déplacements
+
 **e** pour intéragir
+
 **f** pour utiliser la lampe torche
+
 **click droit** pour attaquer
 
 ## Méchanique
